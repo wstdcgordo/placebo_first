@@ -1,0 +1,83 @@
+Province/City,Cluster,Region,Dominant Language,Classification,Marcos,Robredo,Pacquiao,Moreno,Lacson,Mangondato,Abella,de Guzman,Gonzales,Montemayor
+Abra,Luzon,Cordillera,Ilocano,Province,147812,4502,588,708,921,63,178,113,129,96
+Agusan del Norte,Mindanao,Caraga,Cebuano,Province,301264,46203,41070,8477,3060,544,1206,643,1113,534
+Agusan del Sur,Mindanao,Caraga,Cebuano,Province,153310,145198,36059,2797,1567,221,1602,519,868,434
+Aklan,Visayas,Western Visayas,Aklanon,Province,146323,146284,20087,16764,4238,506,949,587,548,574
+Albay,Luzon,Bicol,Bicolano,Province,112651,608779,8557,6331,4992,614,2207,1743,1736,845
+Antique,Visayas,Western Visayas,Kinaray-a,Province,115027,142663,30190,22126,5312,303,1147,846,685,641
+Apayao,Luzon,Cordillera,Ilocano,Province,60181,1879,906,368,449,27,121,84,75,124
+Aurora,Luzon,Central Luzon,Tagalog,Province,83719,29660,6071,3026,2960,116,243,203,187,161
+Basilan,Mindanao,Bangsamoro,Tausug,Province,147121,51511,4074,3823,750,3923,586,162,315,126
+Bataan,Luzon,Central Luzon,Tagalog,Province,334642,109757,7452,21158,9767,453,671,544,1508,324
+Batanes,Luzon,Cagayan Valley,Ivatan,Province,4358,5195,182,725,567,7,17,34,25,11
+Batangas,Luzon,Calabarzon,Tagalog,Province,719971,656166,36290,88559,43195,1352,2188,2361,1969,1179
+Benguet,Luzon,Cordillera,Ilocano,Province,264827,49478,7064,6998,13483,767,292,331,285,419
+Biliran,Visayas,Eastern Visayas,Cebuano,Province,60687,11851,17347,2445,856,152,327,199,159,149
+Bohol,Visayas,Central Visayas,Cebuano,Province,501637,141018,88938,27334,13058,803,2255,1354,1768,1182
+Bukidnon,Mindanao,Northern Mindanao,Cebuano,Province,514945,80450,130762,15884,7143,1932,3156,2289,2002,1605
+Bulacan,Luzon,Central Luzon,Tagalog,Province,1040157,500285,36467,92610,44934,1517,2399,3056,2312,1380
+Cagayan,Luzon,Cagayan Valley,Ilocano,Province,556613,47384,5505,5644,6001,577,1163,1037,739,651
+Camarines Norte,Luzon,Bicol,Bicolano,Province,66995,239353,6133,4426,2486,300,951,730,677,359
+Camarines Sur,Luzon,Bicol,Bicolano,Province,102921,958905,6950,3936,3198,564,2992,1225,1271,764
+Camiguin,Mindanao,Northern Mindanao,Cebuano,Province,45321,4591,1717,505,232,35,76,71,62,125
+Capiz,Visayas,Western Visayas,Hiligaynon,Province,165903,216236,21667,16543,4336,351,1585,1099,1150,611
+Catanduanes,Luzon,Bicol,Bicolano,Province,31454,123805,3543,2567,2101,143,713,477,393,425
+Cavite,Luzon,Calabarzon,Tagalog,Province,1121668,497898,40054,80484,91677,2378,1899,2485,1746,1476
+Cebu,Visayas,Central Visayas,Cebuano,Province,1656830,638335,459984,87137,42963,2489,5808,5429,5042,3955
+Cotabato,Mindanao,Soccsksargen,Maguindanaon,Province,658498,83810,14934,9039,7521,3060,2342,923,1608,710
+Davao de Oro,Mindanao,Davao,Cebuano,Province,460650,85562,45038,15721,7834,4788,1299,1074,1228,757
+Davao del Norte,Mindanao,Davao,Cebuano,Province,470567,39373,30733,4844,6826,1155,1041,873,853,621
+Davao del Sur,Mindanao,Davao,Cebuano,Province,634598,42367,78663,8383,6762,1719,1837,1550,1991,1069
+Davao Occidental,Mindanao,Davao,Cebuano,Province,102265,2981,30363,723,438,704,332,202,265,161
+Davao Oriental,Mindanao,Davao,Cebuano,Province,233632,19424,49109,3983,2411,1140,1180,803,799,725
+Dinagat Islands,Mindanao,Caraga,Cebuano,Province,46898,10690,3242,619,278,35,173,124,112,73
+Eastern Samar,Visayas,Eastern Visayas,Waray,Province,107419,124393,27366,8660,2806,190,1113,683,906,361
+Guimaras,Visayas,Western Visayas,Hiligaynon,Province,25792,66071,6796,3045,857,35,269,182,126,168
+Ifugao,Luzon,Cordillera,Ifugao,Province,82479,15585,6573,2233,2417,73,173,154,127,222
+Ilocos Norte,Luzon,Ilocos,Ilocano,Province,356221,10043,1046,1426,1928,164,280,200,192,193
+Ilocos Sur,Luzon,Ilocos,Ilocano,Province,391973,15671,1282,1511,1756,343,385,216,220,176
+Iloilo,Visayas,Western Visayas,Hiligaynon,Province,459261,728781,80359,36490,13953,846,3223,2765,2224,1633
+Isabela,Luzon,Cagayan Valley,Ilocano,Province,763274,82132,13040,9468,8302,775,1960,1287,1099,1050
+Kalinga,Luzon,Cordillera,Ilocano,Province,117391,8440,1472,1071,1365,180,220,207,145,293
+La Union,Luzon,Ilocos,Ilocano,Province,425792,24566,2859,2868,3378,262,472,564,337,266
+Laguna,Luzon,Calabarzon,Tagalog,Province,939775,510931,36336,86879,43439,1690,2298,2655,2101,1368
+Lanao del Norte,Mindanao,Northern Mindanao,Maranao,Province,293386,66438,49706,11890,3634,23820,1104,754,817,573
+Lanao del Sur,Mindanao,Bangsamoro,Maranao,Province,145155,126326,7057,29880,1759,180131,810,525,836,374
+Leyte,Visayas,Eastern Visayas,Waray,Province,825707,127223,78208,20262,11478,883,2915,2319,2088,1406
+Maguindanao,Mindanao,Bangsamoro,Maguindanaon,Province,310545,267894,13863,24904,2656,10486,1652,603,1190,416
+Marinduque,Luzon,Mimaropa,Tagalog,Province,55278,54379,9865,9807,3814,94,416,427,276,171
+Masbate,Luzon,Bicol,Bicolano,Province,162037,186998,64480,9388,4008,655,3581,1521,1804,696
+Metro Manila,Luzon,Metro Manila,Tagalog,Province,3069899,2025718,368397,182170,97754,5965,13644,11647,9805,6746
+Misamis Occidental,Mindanao,Northern Mindanao,Cebuano,Province,258153,33290,47403,4573,1811,206,439,548,537,332
+Misamis Oriental,Mindanao,Northern Mindanao,Cebuano,Province,624359,92678,101986,18437,8184,1344,2018,1504,1709,1083
+Mountain Province,Luzon,Cordillera,Kankanaey,Province,75705,8765,3603,1985,2708,49,156,176,106,165
+Negros Occidental,Visayas,Western Visayas,Hiligaynon,Province,604158,640148,203856,45434,21788,1263,6033,3806,3368,2429
+Negros Oriental,Visayas,Central Visayas,Cebuano,Province,258114,180368,223589,20067,14875,997,3878,2497,2409,1683
+Northern Samar,Visayas,Eastern Visayas,Waray,Province,127538,159372,34445,9980,3075,324,1750,931,891,472
+Nueva Ecija,Luzon,Central Luzon,Tagalog,Province,945388,236827,13665,27862,26795,1244,1956,1576,1602,1005
+Nueva Vizcaya,Luzon,Cagayan Valley,Ilocano,Province,200111,25339,7932,5499,4546,302,367,377,232,335
+Occidental Mindoro,Luzon,Mimaropa,Tagalog,Province,123387,84321,22276,11847,8570,210,799,408,467,422
+Oriental Mindoro,Luzon,Mimaropa,Tagalog,Province,192890,179007,45611,18631,9899,351,678,1198,651,361
+Palawan,Luzon,Mimaropa,Tagalog,Province,269647,147684,133059,23951,11212,2757,2024,1198,1760,1142
+Pampanga,Luzon,Central Luzon,Kapampangan,Province,865122,370624,24158,56796,19142,1354,1933,1605,2471,1156
+Pangasinan,Luzon,Ilocos,Pangasinan,Province,1378128,280156,29341,42397,24013,1701,3531,3150,2786,1776
+Quezon,Luzon,Calabarzon,Tagalog,Province,442393,609973,53754,40705,26918,786,2348,1982,1662,1012
+Quirino,Luzon,Cagayan Valley,Ilocano,Province,84515,8134,4726,2545,2093,77,169,165,114,276
+Rizal,Luzon,Calabarzon,Tagalog,Province,765644,371399,32395,57590,41578,1454,1145,2246,1503,1064
+Romblon,Luzon,Mimaropa,Romblomanon,Province,71127,65142,12445,10895,5511,109,374,274,256,347
+Samar,Visayas,Eastern Visayas,Waray,Province,286876,127020,49446,9980,3884,388,1726,604,949,471
+Sarangani,Mindanao,Soccsksargen,Cebuano,Province,79362,13782,163494,2154,1154,1374,744,394,510,668
+Siquijor,Visayas,Central Visayas,Cebuano,Province,31412,17753,8224,2658,1040,55,191,164,120,233
+Sorsogon,Luzon,Bicol,Bicolano,Province,90523,333614,9986,6849,4153,486,1619,1381,1073,603
+South Cotabato,Mindanao,Soccsksargen,Hiligaynon,Province,476549,94483,160987,12843,9503,2367,1430,1288,1332,1073
+Southern Leyte,Visayas,Eastern Visayas,Cebuano,Province,157970,34560,21598,18651,2009,269,515,432,437,297
+Sultan Kudarat,Mindanao,Soccsksargen,Maguindanaoan,Province,253700,64983,31803,10522,3209,4229,1408,794,803,440
+Sulu,Mindanao,Bangsamoro,Tausug,Province,350588,10190,1922,1525,345,824,175,65,346,67
+Surigao del Norte,Mindanao,Caraga,Cebuano,Province,227194,46228,30892,5263,3294,513,1062,546,746,413
+Surigao del Sur,Mindanao,Caraga,Cebuano,Province,249177,45812,58632,6079,2861,582,1024,1298,1006,779
+Tarlac,Luzon,Central Luzon,Tagalog,Province,426626,291410,12513,21660,9830,649,1422,1040,1399,573
+Tawi-Tawi,Mindanao,Bangsamoro,Tausug,Province,143630,13563,11531,2884,537,1562,421,184,479,193
+Zambales,Luzon,Central Luzon,Tagalog,Province,291252,114105,10487,17214,9969,878,703,752,633,532
+Zamboanga del Norte,Mindanao,Zamboanga Peninsula,Cebuano,Province,284009,105722,139236,12373,3546,2866,1437,1119,1675,1208
+Zamboanga del Sur,Mindanao,Zamboanga Peninsula,Cebuano,Province,580445,113993,125509,25545,8141,4251,1990,1357,2449,1375
+Zamboanga Sibugay,Mindanao,Zamboanga Peninsula,Cebuano,Province,168271,46147,85414,8013,2219,2005,1147,695,746,495
