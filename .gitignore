@@ -1,0 +1,17 @@
+*.exe
+*.dll
+*.so
+*.o
+
+node_modules/
+venv/
+env/
+
+*.tmp
+*~
+.DS_Store
+
+*.csv
+
+docs/
+*.html
