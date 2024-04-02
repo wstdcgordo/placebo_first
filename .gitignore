@@ -12,6 +12,7 @@ env/
 .DS_Store
 
 *.csv
+*.png
 
 docs/
 *.html
